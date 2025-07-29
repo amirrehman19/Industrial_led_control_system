@@ -42,12 +42,12 @@ Check `Schematics/relay_through_web.xlsx` for full wiring.
 ## 🛠 Code Overview
 
 ### 1. ESP32 Web Relay Control
-📄 [`esp32_webrelay.ino`](ESP32_WebRelay_Control/esp32_webrelay.ino)
+📄 [`esp32_webrelay.ino`](esp32_webrelay.ino)
 
 Handles Ethernet config + relay toggle via web requests
 
 ### 2. Arduino Nano LED Driver
-📄 [`nano_led_driver.ino`](ArduinoNano_Code/nano_led_driver.ino)
+📄 [`nano_led_driver.ino`](nano_led_driver.ino)
 
 Turns LED ON/OFF based on relay input from ESP32-controlled circuit
 
