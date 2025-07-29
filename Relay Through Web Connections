@@ -1,0 +1,16 @@
+Encj2860	|	E   s  p  3 2		|  Relay
+---------------------------------------				
+Vcc(5V)	    <--->	Vcc(3.3)	 <--->	VCC(5V)
+gnd 	      <--->	gnd	       <--->	gnd
+SCK	        <--->	GPIO18		
+So	        <--->	GPIO19		
+SI 	        <--->	GPIO23		
+CS	        <--->	GPIO05		
+		              GPIO14	   <--->	LN1
+		              GPIO27	   <--->	LN 2
+            		  GPIO26	   <--->	LN 3
+		              GPIO15	   <--->	LN 4
+      		        GPIO32	   <--->	LN 5
+		              GPIO33	   <--->	LN6
+		              GPIO25	   <--->	LN 7
+		              GPIO21	   <--->	LN 8
